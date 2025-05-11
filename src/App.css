@@ -708,11 +708,12 @@ body {
 
 .project-image {
   width: 100%;
-  height: 200px;
-  object-fit: cover;
+  height: 500px;         /* ⬆️ was probably 180px before */
+  object-fit: cover;     /* fills the space, allows some cropping */
   border-radius: 6px;
   margin-bottom: 1rem;
 }
+
 
 .project-title {
   font-size: 1.25rem;
