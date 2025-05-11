@@ -6,9 +6,9 @@ const projects = [
     title: 'ISS Tracker',
     description:
       'A real-time International Space Station tracker built with React and Leaflet. Includes live coordinates and animated satellite path.',
-    image: '/images/iss-tracker.png',
-    github: 'https://github.com/YOUR_USERNAME/iss-tracker',
-    live: 'https://YOUR_DEPLOYED_LINK.vercel.app',
+    image: '/images/iss-img.png',
+    github: 'https://github.com/BadL22/ISS-Tracker',
+    live: 'https://iss-tracker-ebon.vercel.app/',
   },
 ];
 
